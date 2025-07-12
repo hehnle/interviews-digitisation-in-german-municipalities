@@ -17,8 +17,8 @@ In the following, there is a list of domain specific terms and how they were tra
 
 A detailed explanation about the background can be found in the following papers:
 
-* P. Hehnle, M. Reichert, Flexible process variant binding in information systems with software product line engineering, preprint (2024). arXiv:2410.17689. URL https://arxiv.org/abs/2410.17689
-* P. Hehnle, M. Reichert, Handling Process Variants in Information Systems with Software Product Line Engineering, in: 2023 IEEE 25th Conference on Business Informatics (CBI), 2023, pp. 1–10.
+* Hehnle, Philipp; Reichert, Manfred (2025): Flexible process variant binding in information systems with software product line engineering. In Journal of Systems and Software 230, p. 112530. 
+* Hehnle, Philipp; Reichert, Manfred (2023): Handling Process Variants in Information Systems with Software Product Line Engineering. In : 2023 IEEE 25th Conference on Business Informatics (CBI), pp. 1–10.
 
 
 ## License 
